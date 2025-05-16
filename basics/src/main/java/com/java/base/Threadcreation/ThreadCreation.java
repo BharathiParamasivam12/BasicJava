@@ -1,4 +1,4 @@
-package com.java.base;
+package com.java.base.Threadcreation;
 
 public class ThreadCreation extends Thread{
     public static void main(String[] args) {
